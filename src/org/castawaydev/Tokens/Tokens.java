@@ -58,8 +58,8 @@ public class Tokens extends JavaPlugin{
 		}
 	}
  
-   public void onDisable()
-   {
+	public void onDisable()
+	{
 	   
-   }
+	}
 }

@@ -1,6 +1,7 @@
 package org.castawaydev.Tokens;
 
-public class Config {
+public class Config {	
+	
 	
 	
 	public boolean makeConfig(){
